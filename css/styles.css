@@ -25,3 +25,17 @@ nav{
   text-align: center;
    overflow: auto;
 }
+
+.cover_image {
+  background-image: url("http://www.my-photo-blog.com/wp-content/uploads/2017/07/Brown-Bear-Family-pose.jpg");
+    background-color: #cccccc;
+   height:1000px;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   position: relative;
+   margin-bottom: 50px
+   
+ }
