@@ -26,8 +26,21 @@ nav{
    overflow: auto;
 }
 
-.cover_image {
-  background-image: url("http://www.my-photo-blog.com/wp-content/uploads/2017/07/Brown-Bear-Family-pose.jpg");
+.cover_image1{
+  background-image: url("https://www.gannett-cdn.com/media/2018/08/03/USATODAY/USATODAY/636689041828658651-1x1.png?quality=10");
+    background-color: #cccccc;
+  height:1000px;
+  background-position: center;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   position: relative;
+   margin-bottom: 50px
+ }
+
+ .cover-image2{
+  background-image: url("https://cdn.rbth.com/all/2016/10/07/grizzly_cp7ecp_b.jpg");
     background-color: #cccccc;
    height:1000px;
    background-position: center;
@@ -37,5 +50,4 @@ nav{
    background-size: cover;
    position: relative;
    margin-bottom: 50px
-   
  }
