@@ -6,7 +6,6 @@ h1 {
 body {
   background-color: #A59191;
   color: black; 
-  padding: 20px; 
 }
 
 .topnav {
@@ -24,6 +23,10 @@ a {
 nav{
   text-align: center;
    overflow: auto;
+}
+
+.video{
+  align-items: auto;
 }
 
 .cover_image1{
@@ -51,3 +54,4 @@ nav{
    position: relative;
    margin-bottom: 50px
  }
+
