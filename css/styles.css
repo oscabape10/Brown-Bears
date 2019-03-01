@@ -56,6 +56,15 @@ nav{
    margin-bottom: 50px
  }
 
+.cover-text{
+  text-align: left;
+  position: absolute;
+  top: 50%;
+  left: 25%;
+  transform: translate(0%, 250%);
+  color: white;
+}
+
 footer{
   color: whitesmoke;
   font-size: 13px;
