@@ -1,20 +1,26 @@
 h1 {
   text-align: center;
+  text-decoration: underline;
 }
+
 body {
   background-color: #A59191;
   color: black; 
   padding: 20px; 
 }
+
 .topnav {
   text-align: center;
 }
+
 li {
   color: #393030;
 }
+
 a {
   color: #393030;
 }
+
 nav{
   text-align: center;
    overflow: auto;
