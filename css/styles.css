@@ -30,6 +30,15 @@ nav{
   align-items: auto;
 }
 
+.cover-text{
+  text-align: left;
+  position: absolute;
+  top: 50%;
+  left: 25%;
+  transform: translate(0%, 250%);
+  color: white;
+}
+
 .cover_image1{
   background-image: url("https://www.gannett-cdn.com/media/2018/08/03/USATODAY/USATODAY/636689041828658651-1x1.png?quality=10");
     background-color: #cccccc;
