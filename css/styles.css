@@ -30,7 +30,7 @@ nav{
   align-items: auto;
 }
 
-.cover-text1{
+.cover_text1{
   text-align: left;
   position: absolute;
   top: 50%;
@@ -39,7 +39,7 @@ nav{
   color: white;
 }
 
-.cover-text2{
+.cover_text2{
   text-align: left;
   position: absolute;
   top: 50%;
@@ -75,14 +75,6 @@ nav{
    margin-bottom: 50px
  }
 
-.cover-text{
-  text-align: left;
-  position: absolute;
-  top: 50%;
-  left: 25%;
-  transform: translate(0%, 250%);
-  color: white;
-}
 
 footer{
   color: whitesmoke;
