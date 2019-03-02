@@ -1,6 +1,7 @@
 h1 {
   text-align: center;
   text-decoration: underline;
+  font-size: 90px;
 }
 
 body {
@@ -44,7 +45,8 @@ nav{
   position: absolute;
   top: 50%;
   left: 25%;
-  transform: translate(0%, 250%);
+ transform: translate(30%, 500%);
+  font-size: 40px;
   color: white;
 }
 
@@ -83,7 +85,7 @@ footer{
 
 img{
   width: 50px;
-  border-radius: 15%;
+  border-radius: 10%;
 }
 
 
