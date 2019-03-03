@@ -4,6 +4,14 @@ h1 {
   font-size: 90px;
 }
 
+h2{
+   text-decoration: underline;
+}
+
+h3{
+   text-decoration: underline;
+}
+
 body {
   background-color: #A59191;
   color: black; 
