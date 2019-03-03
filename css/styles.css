@@ -40,17 +40,6 @@ nav{
   color: white;
 }
 
-.cover_text2{
-  text-align: left;
-  position: absolute;
-  top: 50%;
-  left: 25%;
- transform: translate(30%, 500%);
-  font-size: 40px;
-  color: white;
-}
-
-
 .cover_image1{
   background-image: url("https://www.gannett-cdn.com/media/2018/08/03/USATODAY/USATODAY/636689041828658651-1x1.png?quality=10");
     background-color: #cccccc;
@@ -63,20 +52,6 @@ nav{
    position: relative;
    margin-bottom: 50px
  }
-
- .cover_image2{
-  background-image: url("https://cdn.rbth.com/all/2016/10/07/grizzly_cp7ecp_b.jpg");
-    background-color: #cccccc;
-   height:1000px;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover;
-   position: relative;
-   margin-bottom: 50px
- }
-
 
 footer{
   color: whitesmoke;
