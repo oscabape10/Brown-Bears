@@ -24,7 +24,7 @@ body {
   position: absolute;
   top: 50%;
   left: 25%;
-  transform: translate(30%, 500%);
+  transform: translate(30%, 300%);
   font-size: 40px;
   color: white;
 }
