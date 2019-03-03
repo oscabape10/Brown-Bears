@@ -58,10 +58,24 @@ footer{
   font-size: 13px;
 }
 
-.fpicts{
+.twitter{
   width: 30px;
     border-radius: 20%;
 }
 
+.facebook{
+  width: 30px;
+    border-radius: 20%;
+}
+
+.Linkedin{
+  width: 30px;
+    border-radius: 20%;
+}
+
+.github{
+  width: 30px;
+    border-radius: 20%;
+}
 
 
