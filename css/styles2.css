@@ -46,7 +46,7 @@ footer{
   text-align:left;
 }
 
-.twitter{
-  width: 50px;
-  border-radius: 50%;
+img{
+    width: 150px;
+    border-radius: 10%;
 }
