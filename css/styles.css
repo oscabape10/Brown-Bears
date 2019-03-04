@@ -43,7 +43,7 @@ nav{
   position: absolute;
   top: 50%;
   left: 25%;
-  transform: translate(-10%, 50%);
+  transform: translate(-10%, 0%);
   color: white;
 }
 
