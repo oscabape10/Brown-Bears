@@ -23,7 +23,7 @@ body {
   position: absolute;
   top: 50%;
   left: 25%;
-  transform: translate(30%, 70%);
+  transform: translate(30%, 0%);
   font-size: 40px;
   color: white;
 }
