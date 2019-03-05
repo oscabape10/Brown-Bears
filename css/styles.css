@@ -60,6 +60,15 @@ nav{
    margin-bottom: 50px
  }
 
+section{
+
+    padding-top: 100px;
+    padding-bottom: 170px;
+    width: 720px;
+    margin-left: 20px;
+    text-align: left;
+}
+
 footer{
   color: whitesmoke;
   font-size: 13px;
