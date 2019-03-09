@@ -34,8 +34,12 @@ nav{
   text-align: center;
    overflow: auto;
 }
+.image1{
+  width: 295px;
+  height:240px;
+}
 
-img{
+.image2{
   width: 295px;
   height:240px;
 }
