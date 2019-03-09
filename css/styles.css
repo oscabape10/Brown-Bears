@@ -35,6 +35,11 @@ nav{
    overflow: auto;
 }
 
+img{
+  width: 295px;
+  height:240px;
+}
+
 .video{
   align-items: auto;
 }
